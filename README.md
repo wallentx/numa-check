@@ -1,3 +1,4 @@
+![174173feb51dc74f](https://user-images.githubusercontent.com/8990544/218200620-109bef60-6992-4151-9f14-3f1a05e263aa.png)
 ### ChatGPT teaches me C++
 
 ***
