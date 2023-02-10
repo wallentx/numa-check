@@ -1,4 +1,4 @@
-### Give me ur coed
+### ChatGPT teaches me C++
 
 ***
 
